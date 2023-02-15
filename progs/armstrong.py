@@ -1,17 +1,21 @@
-n=371
-temp=0
-num=0
-num1=n
-power=len(str(n))
-while n!=0:
-    
-    temp=n%10
-    temp=temp**power
-    n=n//10
-    num=temp+num
-print(num)
+num=int(input("enter the number:" ))
+def armstrong(num):
+    temp=num
+    n=0
+    a=0
+    num=list(str(num))
+    for i in (num):
+        print(i)
+        n=int(i)**3
+        
+        print(n)
+        a+=n
+        print(a)
+        if a==temp:
+            print("armstrong number")
+        else:
+            print("not and armstrong num")
+armstrong(num)
 
-if num == num1:
-    print('arm strong')
 
 
