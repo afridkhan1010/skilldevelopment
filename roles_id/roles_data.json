@@ -1,0 +1,488 @@
+[
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Software Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 1
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Mobile Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 2
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "iOS Developer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 3
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Android Developer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 4
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Full-Stack Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 5
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Backend Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 6
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Data Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 7
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Embedded Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 8
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Machine Learning Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 9
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Security Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 10
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Engineering Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 11
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Data Scientist",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 12
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "DevOps",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 13
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "QA Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 14
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Software Architect",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 15
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Hardware Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 16
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Mechanical Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 17
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Systems Engineer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 18
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "User Researcher",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 19
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Visual Designer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 20
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Creative Director",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 21
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Graphic Designer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 22
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Design Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 23
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Product Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 24
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Operations",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 25
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Finance/Accounting",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 26
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Business Development",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 27
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Business Development Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 28
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Business Analyst",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 29
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Product Designer",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 30
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Office Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 31
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Recruiter",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 32
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Customer Service",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 33
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Chief Of Staff",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 34
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Account Executive",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 35
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Customer Success Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 36
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Account Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 37
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Sales Development Rep",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 38
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Social Media Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 39
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Digital Marketing Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 40
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "CFO",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 41
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "H.R",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 42
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Growth Hacker",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 43
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Other",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 44
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Project Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 45
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Marketing",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 46
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Marketing Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 47
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Product Marketing Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 48
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Sales",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 49
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Sales Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 50
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Data Analyst",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 51
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Operations Manager",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 52
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Copywriter",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 53
+    },
+    {
+        "model": "commons.role",
+        "fields": {
+            "name": "Attorney",
+            "description": "",
+            "created_on": "2022-07-01T09:00:00.000Z"
+        },
+        "pk": 54
+    }
+]
