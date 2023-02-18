@@ -119,7 +119,7 @@
 #extra spaces
 
 # string="   Hello    world!   "
-# # words=string.split()
+# # words=string.split()    
 # # new_s=" ".join(words)
 # # print(new_s)
 # op=''
