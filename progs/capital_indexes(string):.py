@@ -7,6 +7,6 @@ def capital_indexes(string):
     
     
 
-string="HeLlO"
+string="HeLlOo"
 x=capital_indexes(string)
 print(x)
